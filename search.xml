@@ -137,11 +137,11 @@
     
     
     <entry>
-      <title>关于评论</title>
-      <link href="/2021/07/19/Comments/"/>
-      <url>/2021/07/19/Comments/</url>
+      <title>关于域名</title>
+      <link href="/2021/07/19/Domain/"/>
+      <url>/2021/07/19/Domain/</url>
       
-        <content type="html"><![CDATA[<p>刚刚开始搭建博客是，我使用了<a href="https://github.com/Shen-Yu/hexo-theme-ayer">Ayer</a>主题。随后添加了<a href="https://github.com/xCss/Valine">Valine</a>评论系统，同时使用了<a href="https://github.com/DesertsP/Valine-Admin">Valine-Admin</a>作为Valine评论系统的扩展和增强。<br>随后便注意到恰红公子的这篇<a href="https://imnerd.org/valine-may-not-so-good.html">《基于 Serverless 的 Valine 可能并没有那么香》</a>便萌生了更换评论系统的想法。<br>恰好一段时间后，我的网站上突然出现了大量垃圾评论，于是便下定决心更换评论系统，顺便更换个主题<del>其实是看腻了Ayer这个主题</del><br>在一段时间的折腾后，成功地将主题更改为<a href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly</a>，同时将评论系统改为<a href="https://github.com/walinejs/waline">Waline</a>。<br>但在一段时间后，仍然遇到了机器人刷评的现象<br><img src="https://i.loli.net/2021/07/19/13V4vTSQbNWEk9K.jpg" alt="刷评1"><br><img src="https://i.loli.net/2021/07/19/eZ29ptHNYxgdCiz.jpg" alt="刷评2"><br>于是询问作者能否添加验证码<br><img src="https://i.loli.net/2021/07/19/CygO2uzdK9bPmDE.png" alt="作者的回复"><br>正好被人安利了一个新的评论系统<a href="https://github.com/imaegoo/twikoo">Twikoo</a>，在比较Waline和Twikoo的优缺点后，果断添加Twikoo评论系统。由于Butterfly支持最多两个评论系统，现在我的博客拥有Waline和Twikoo两个评论系统<del>可喜可贺可喜可贺</del></p><p>自此，我的博客主题从Ayer到Butterfly，评论系统从Valine到Waline再到Waline与Twikoo共存。</p>]]></content>
+        <content type="html"><![CDATA[<p>在2020年的8月3日，我在阿里云注册了个<a href="https://zhouhua.work/">域名</a>，然而现在它即将过期。<br><img src="https://i.loli.net/2021/07/19/95b4LqSAlTxF8kQ.png" alt="域名情况"><br>考虑到经济方面的情况，再加上现在博客部署在<a href="https://vercel.com/">Vercel</a>上，有着其提供的二级域名<code>https://*.vercel.app</code>，<strong>于是决定不在续费和使用<code>zhouhua.work</code>域名，望悉知。</strong></p>]]></content>
       
       
       <categories>
@@ -166,11 +166,11 @@
     
     
     <entry>
-      <title>关于域名</title>
-      <link href="/2021/07/19/Domain/"/>
-      <url>/2021/07/19/Domain/</url>
+      <title>关于评论</title>
+      <link href="/2021/07/19/Comments/"/>
+      <url>/2021/07/19/Comments/</url>
       
-        <content type="html"><![CDATA[<p>在2020年的8月3日，我在阿里云注册了个<a href="https://zhouhua.work/">域名</a>，然而现在它即将过期。<br><img src="https://i.loli.net/2021/07/19/95b4LqSAlTxF8kQ.png" alt="域名情况"><br>考虑到经济方面的情况，再加上现在博客部署在<a href="https://vercel.com/">Vercel</a>上，有着其提供的二级域名<code>https://*.vercel.app</code>，<strong>于是决定不在续费和使用<code>zhouhua.work</code>域名，望悉知。</strong></p>]]></content>
+        <content type="html"><![CDATA[<p>刚刚开始搭建博客是，我使用了<a href="https://github.com/Shen-Yu/hexo-theme-ayer">Ayer</a>主题。随后添加了<a href="https://github.com/xCss/Valine">Valine</a>评论系统，同时使用了<a href="https://github.com/DesertsP/Valine-Admin">Valine-Admin</a>作为Valine评论系统的扩展和增强。<br>随后便注意到恰红公子的这篇<a href="https://imnerd.org/valine-may-not-so-good.html">《基于 Serverless 的 Valine 可能并没有那么香》</a>便萌生了更换评论系统的想法。<br>恰好一段时间后，我的网站上突然出现了大量垃圾评论，于是便下定决心更换评论系统，顺便更换个主题<del>其实是看腻了Ayer这个主题</del><br>在一段时间的折腾后，成功地将主题更改为<a href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly</a>，同时将评论系统改为<a href="https://github.com/walinejs/waline">Waline</a>。<br>但在一段时间后，仍然遇到了机器人刷评的现象<br><img src="https://i.loli.net/2021/07/19/13V4vTSQbNWEk9K.jpg" alt="刷评1"><br><img src="https://i.loli.net/2021/07/19/eZ29ptHNYxgdCiz.jpg" alt="刷评2"><br>于是询问作者能否添加验证码<br><img src="https://i.loli.net/2021/07/19/CygO2uzdK9bPmDE.png" alt="作者的回复"><br>正好被人安利了一个新的评论系统<a href="https://github.com/imaegoo/twikoo">Twikoo</a>，在比较Waline和Twikoo的优缺点后，果断添加Twikoo评论系统。由于Butterfly支持最多两个评论系统，现在我的博客拥有Waline和Twikoo两个评论系统<del>可喜可贺可喜可贺</del></p><p>自此，我的博客主题从Ayer到Butterfly，评论系统从Valine到Waline再到Waline与Twikoo共存。</p>]]></content>
       
       
       <categories>
