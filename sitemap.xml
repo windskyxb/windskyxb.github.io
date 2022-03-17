@@ -173,21 +173,21 @@
 
   
   <url>
-    <loc>https://zhouhua.vercel.app/tags/%E7%B1%B3%E5%93%88%E6%B8%B8/</loc>
+    <loc>https://zhouhua.vercel.app/tags/Hexo/</loc>
     <lastmod>2022-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://zhouhua.vercel.app/tags/%E4%BA%BA%E5%B7%A5%E6%A1%8C%E9%9D%A2/</loc>
+    <loc>https://zhouhua.vercel.app/tags/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2022-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://zhouhua.vercel.app/tags/%E9%B9%BF%E9%B8%A3/</loc>
+    <loc>https://zhouhua.vercel.app/tags/GitHub/</loc>
     <lastmod>2022-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -208,20 +208,6 @@
   </url>
   
   <url>
-    <loc>https://zhouhua.vercel.app/tags/Hexo/</loc>
-    <lastmod>2022-03-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhouhua.vercel.app/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2022-03-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://zhouhua.vercel.app/tags/Gridea/</loc>
     <lastmod>2022-03-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -229,14 +215,21 @@
   </url>
   
   <url>
-    <loc>https://zhouhua.vercel.app/tags/GitHub/</loc>
+    <loc>https://zhouhua.vercel.app/tags/%E7%B1%B3%E5%93%88%E6%B8%B8/</loc>
     <lastmod>2022-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://zhouhua.vercel.app/tags/Genshin-Impact/</loc>
+    <loc>https://zhouhua.vercel.app/tags/%E4%BA%BA%E5%B7%A5%E6%A1%8C%E9%9D%A2/</loc>
+    <lastmod>2022-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhouhua.vercel.app/tags/%E9%B9%BF%E9%B8%A3/</loc>
     <lastmod>2022-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -278,6 +271,13 @@
   </url>
   
   <url>
+    <loc>https://zhouhua.vercel.app/tags/Genshin-Impact/</loc>
+    <lastmod>2022-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://zhouhua.vercel.app/tags/MMD/</loc>
     <lastmod>2022-03-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -287,7 +287,7 @@
 
   
   <url>
-    <loc>https://zhouhua.vercel.app/categories/%E5%AE%9E%E7%94%A8/</loc>
+    <loc>https://zhouhua.vercel.app/categories/%E7%BC%96%E7%A8%8B/</loc>
     <lastmod>2022-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -301,7 +301,7 @@
   </url>
   
   <url>
-    <loc>https://zhouhua.vercel.app/categories/%E7%BC%96%E7%A8%8B/</loc>
+    <loc>https://zhouhua.vercel.app/categories/%E5%AE%9E%E7%94%A8/</loc>
     <lastmod>2022-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
