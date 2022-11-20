@@ -182,27 +182,6 @@
 
   
   <url>
-    <loc>https://windskyxb.github.io/tags/Hexo/</loc>
-    <lastmod>2022-11-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://windskyxb.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2022-11-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://windskyxb.github.io/tags/GitHub/</loc>
-    <lastmod>2022-11-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://windskyxb.github.io/tags/%E7%B1%B3%E5%93%88%E6%B8%B8/</loc>
     <lastmod>2022-11-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -224,7 +203,21 @@
   </url>
   
   <url>
-    <loc>https://windskyxb.github.io/tags/Gridea/</loc>
+    <loc>https://windskyxb.github.io/tags/Hexo/</loc>
+    <lastmod>2022-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://windskyxb.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2022-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://windskyxb.github.io/tags/GitHub/</loc>
     <lastmod>2022-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -239,6 +232,13 @@
   
   <url>
     <loc>https://windskyxb.github.io/tags/%E6%B8%B8%E6%88%8F/</loc>
+    <lastmod>2022-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://windskyxb.github.io/tags/Gridea/</loc>
     <lastmod>2022-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -296,14 +296,14 @@
 
   
   <url>
-    <loc>https://windskyxb.github.io/categories/%E7%BC%96%E7%A8%8B/</loc>
+    <loc>https://windskyxb.github.io/categories/%E5%AE%9E%E7%94%A8/</loc>
     <lastmod>2022-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://windskyxb.github.io/categories/%E5%AE%9E%E7%94%A8/</loc>
+    <loc>https://windskyxb.github.io/categories/%E7%BC%96%E7%A8%8B/</loc>
     <lastmod>2022-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
